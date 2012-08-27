@@ -3,7 +3,7 @@ package com.example;
 import android.app.Activity;
 import android.os.Bundle;
 
-public class HelloWorldActivity extends Activity {
+public class DeclaringAnActivity extends Activity {
     /**
      * Called when the activity is first created.
      */
